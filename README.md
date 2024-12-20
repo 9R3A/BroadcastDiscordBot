@@ -13,7 +13,10 @@ Broadcast Discord Bot Sent To All User With A Single Command
 4-install .env ("dotenv") Node modules
 
 # Installing
-
+One Line
+```
+npm install discord.js dotenv
+```
 ```
 npm install
 ```
