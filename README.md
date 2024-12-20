@@ -9,11 +9,11 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 
 2- #install NPM
-`npm install `
+```npm install ```
 
 3- #install discord.js Node modules
-`npm install discord.js`
+```npm install discord.js```
 
 4- 
 #install .env ("dotenv") Node modules
-`npm istall dotenv`
+```npm istall dotenv```
