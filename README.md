@@ -7,6 +7,8 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 3- |npm install discord.js|
 
-4- ```bash
-npm install dotenv
+4- ### Example Code
 
+```bash
+# Sample code here
+echo "Hello, world!"
