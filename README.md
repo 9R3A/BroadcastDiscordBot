@@ -16,7 +16,10 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 ```
 npm install
-
+```
+```
 npm install discord.js
-
+```
+```
 npm install dotenv
+```
