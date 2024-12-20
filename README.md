@@ -14,8 +14,9 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 # Installing
 
-```npm install
+```
+npm install
 
-```npm install discord.js
+npm install discord.js
 
-``npm install dotenv
+npm install dotenv
