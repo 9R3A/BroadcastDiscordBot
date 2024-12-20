@@ -44,7 +44,7 @@ Just Open The Bat File
 
 For Linux :
 
-Open The bot.js Using Command At Bash "node index.js" Or Make A "start.sh" and add your 
+Open The index.js Using Command At Bash "node index.js" Or Make A "start.sh" and add your 
 
 code to run it
 
