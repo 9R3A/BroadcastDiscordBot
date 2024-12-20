@@ -7,8 +7,18 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 3- |npm install discord.js|
 
-4- ```
-function test(Copy) {
-  console.log("This code will have a copy button to the right of it");
-}
-```
+4- <pre>
+    <code id="codeSnippet">
+        function test(Copy) { console.log("npm isntall dotenv"); }
+    </code>
+</pre>
+<button onclick="copyCode()">Copy</button>
+
+<script>
+    function copyCode() {
+        const code = document.getElementById('codeSnippet').innerText;
+        navigator.clipboard.writeText(code).then(() => {
+            alert('Code copied to clipboard!');
+        });
+    }
+</script>
