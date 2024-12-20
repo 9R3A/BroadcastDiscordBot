@@ -4,22 +4,18 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 # Requirment
 
-1- *node.js v22 Or Higher*
+1- node.js v22 Or Higher
 
+2- install NPM 
 
+3-install discord.js Node modules
 
-2- #install NPM
+4-install .env ("dotenv") Node modules
 
+# Installing
 
-```npm install ```
+```npm install
 
-3- #install discord.js Node modules
+```npm install discord.js
 
-
-```npm install discord.js```
-
-4- 
-#install .env ("dotenv") Node modules
-
-
-```npm istall dotenv```
+``npm install dotenv
