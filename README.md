@@ -74,4 +74,4 @@ Discord Account : itz_me_rio / 9R3A_
 
 Have Fun Using 9R3A Bots
 
-Github : github.com/9R3A
+Github : [github.com/9R3A](https://github.com/9R3A/)
