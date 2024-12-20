@@ -7,4 +7,8 @@ Broadcast Discord Bot Sent To All User With A Single Command
 
 3- |npm install discord.js|
 
-4- ```npm install dotenv```
+4- ```
+function test() {
+  console.log("npm install dotenv");
+}
+```
