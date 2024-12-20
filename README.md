@@ -29,9 +29,9 @@ npm install dotenv
  ╔═════════════════════════════════════════════════════════════════════════════════╗
  ║                                                                                 ║
  ║                                                                                 ║
- ║                       █████╗ ██████╗ ██████╗  █████╗ 		                   ║
- ║                      ██╔══██╗██╔══██╗╚════██╗██╔══██╗	                       ║
- ║                      ╚██████║██████╔╝ █████╔╝███████║	                       ║
+ ║                       █████╗ ██████╗ ██████╗  █████╗ 		                         ║
+ ║                      ██╔══██╗██╔══██╗╚════██╗██╔══██╗	                          ║
+ ║                      ╚██████║██████╔╝ █████╔╝███████║	                          ║
  ║                       ╚═══██║██╔══██╗ ╚═══██╗██╔══██║                           ║
  ║                       █████╔╝██║  ██║██████╔╝██║  ██║                           ║
  ║                       ╚════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝                           ║
@@ -41,15 +41,20 @@ npm install dotenv
 
 That Project Made By 9R3A
 
+
 ═════════════════════
+
 How To Run
+
 ═════════════════════
+
 For Windows :
 
 Just Open The Bat File
 
 
 ═════════════════════
+
 For Linux :
 
 Open The bot.js Using Command At Bash "node index.js" Or Make A "start.sh" and add your 
@@ -57,16 +62,19 @@ Open The bot.js Using Command At Bash "node index.js" Or Make A "start.sh" and a
 code to run it
 
 ═════════════════════
+
 For Servers :
 
 Set Your Startup JS File for index.js
 
 ═════════════════════
+
 For Android : 
 
 You Can Download Termux And Download Requrment To Run It But You Will Have To Many issues
 
 Just Use A Server
+
 ═════════════════════
 
 All Credits To 9R3A
