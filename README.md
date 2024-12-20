@@ -8,7 +8,7 @@ Broadcast Discord Bot Sent To All User With A Single Command
 3- |npm install discord.js|
 
 4- ```javascript
-function test() { 
+function test(copy) { 
     console.log("This code will have a copy button to the right of it");
 }
 
