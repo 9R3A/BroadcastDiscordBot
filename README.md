@@ -30,6 +30,7 @@ Broadcast Discord Bot Sent To All User With A Single Command
 ```
 npm install discord.js dotenv
 ```
+> Each One
 ```
 npm install
 ```
@@ -38,7 +39,6 @@ npm install discord.js
 ```
 ```
 npm install dotenv
-
 ```
 # Use
 
