@@ -9,7 +9,7 @@ const client = new Client({
 });
 
 client.once('ready', () => {
-    console.log('
+    console.log(`
     ╔═════════════════════════════════════════════════════════════════════════════════╗
     ║                                                                                 ║
     ║                                                                                 ║
@@ -30,7 +30,7 @@ client.once('ready', () => {
                             → Github: https://github.com/9R3A
                           ════════════════════════════════════════
                                               <3                    
-      ');
+      `);
 });
 
 client.on('interactionCreate', async interaction => {
